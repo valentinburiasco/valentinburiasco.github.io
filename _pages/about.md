@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>UGA - JHU</a>. 1209 rue de la piscine - 38610 Gières.
 
 profile:
   align: right
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+Hello and welcome to my website. I am currently a PhD candidate at LEGI at the University of Grenoble Alpes (France) and at the Fluid Transport Lab at John Hopkins University, Baltimore (Maryland, USA). I am working on the behaviour of bubbles in turbulence, their dynamics and migration. For this, I am supervised by Nathanaël Machicoane (LEGI) and Rui Ni (FTL).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
