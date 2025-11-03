@@ -16,11 +16,7 @@
       year: 2028
       description:
         - Deformation & migration in shear-driven flows
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        
     - title: Engineering diploma
       institution: ENSTA Paris, Palaiseau, France
       year: 2024
@@ -42,13 +38,7 @@
     - title: Maritime Engineer
       institution: Artelia, Echirolles, France
       year: 2024 - 2025
-      description:
-        - Desc.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+     
     - title: Research internship (5 months)
       institution: Ecole Polytechnique Fédérale de Lausanne (EPFL) - LFMI, Lausanne, Vaud, Switzerland
       year: 2023
@@ -65,15 +55,3 @@
 
 
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
