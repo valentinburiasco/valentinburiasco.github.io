@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-- Hello and welcome to my website. I am currently a PhD candidate at LEGI at the University of Grenoble Alpes (France) and at the Fluid Transport Lab at John Hopkins University, Baltimore (Maryland, USA). I am working on the behaviour of bubbles in turbulence, their dynamics and migration. For this, I am supervised by Nathanaël Machicoane (LEGI) and Rui Ni (FTL).
+ Hello and welcome to my website. I am currently a PhD candidate at LEGI at the University of Grenoble Alpes (France) and at the Fluid Transport Lab at John Hopkins University, Baltimore (Maryland, USA). I am working on the behaviour of bubbles in turbulence, their dynamics and migration. For this, I am supervised by Nathanaël Machicoane (LEGI) and Rui Ni (FTL).
 
 
