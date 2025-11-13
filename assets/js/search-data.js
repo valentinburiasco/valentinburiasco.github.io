@@ -80,10 +80,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-here-we-go-for-three-years-of-thesis-work-18-months-at-legi-18-months-at-the-fluid-transport-lab",
+      },{id: "news-here-we-go-for-three-years-of-thesis-work-18-months-at-legi-18-months-at-the-fluid-transport-lab",
           title: 'Here we go for three years of thesis work, 18 months at LEGI,...',
           description: "",
           section: "News",},{id: "news-my-first-bubbles",
