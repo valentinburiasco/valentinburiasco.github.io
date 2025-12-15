@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>G120</p>
+    <p>G120 </p>
     <p>1209 rue de la piscine</p>
     <p>38610 Gières</p>
 
