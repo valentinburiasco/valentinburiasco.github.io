@@ -21,10 +21,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
  Hello and welcome to my website. I am currently a PhD candidate at LEGI at the University of Grenoble Alpes (France) and at the Fluid Transport Lab at John Hopkins University, Baltimore (Maryland, USA). I am working on the behaviour of bubbles in turbulence, their dynamics and migration. For this, I am supervised by Nathanaël Machicoane (LEGI) and Rui Ni (FTL). I'm also working with Romain Volk (ENSL) on solid particle in turbulence.
