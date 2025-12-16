@@ -14,23 +14,20 @@ profiles:
     content: about_nathanael.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>LEGI, Université Grenoble Alpes</p>
+      <p>1209 rue de la piscine</p>
+      <p>38610, Gières</p>
   - align: left
     image: prof_pic.jpg
     content: about_rui.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
+      <p>119 Latrobe Hall</p>
+      <p>Department of Mechanical Engineering, John Hopkins University</p>
+      <p>3400 N. Charles Street</p>
+      <p>Baltimore, MD, 21218</p>
+  - align: right
     image: prof_pic.jpg
     content: about_romain.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
