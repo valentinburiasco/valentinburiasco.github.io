@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Research team: thesis supervisors and principal collaborators
+description: Research team - thesis supervisors and principal collaborators
 nav: true
 nav_order: 7
 
