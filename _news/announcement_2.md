@@ -11,4 +11,4 @@ After assembling the tank last Friday, the first bubbles were filmed today with 
 
 A ball is also trapped in the upward water jet. Soon there will be some more serious observations to definitively begin the first stages of the thesis.
 
-<a href="mespremièeresbulles.png" data-lightbox="roadtrip"><img src="assets/img/mespremièeresbulles.png" /></a>
+<a href="mespremièeresbulles.png" data-lightbox="roadtrip"><img src="mespremièeresbulles.png" /></a>
